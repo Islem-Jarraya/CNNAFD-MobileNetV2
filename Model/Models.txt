@@ -1,0 +1,4 @@
+You can Download the trained models from the following links:
+Cat Model: https://drive.google.com/file/d/1gRvkNboNXxunZ2SeEiEFk1nefn_zZQCJ/view?usp=sharing
+Dog Model: https://drive.google.com/file/d/1q20FBkAVTJamAvYQgDmcn6MZ_jC7x8yH/view?usp=sharing
+Horse Model: https://drive.google.com/file/d/1nq8kL-4n6BuYE-luJceJ56HQ-BT6gHo0/view?usp=sharing
