@@ -1,0 +1,17 @@
+Test the detection process of the proposed CNNAFD-MobileNetV2 with YOLOv2.
+**************************************************************************
+Requirements:
+ -Matlab 2020b
+ -Replace yolov2ObjectDetector.m of the matlab toolbox with the file found in this package.
+ -To test a dataset of images:
+   -Download the THDD(Part2), Cat Database, Standford Dogs Dataset or Oxford-IIIT Pet Dataset.
+   -Check that all the images in the database to test are RGB (with 3 channels) 
+otherwise you can change the grayscale images to an image with 3 channels.
+   -Place each set of images in their folder. For example, THDD images will be placed in Data\THDD-TestSet folder.
+   -In the Main file choose the test dataset.
+   -Upload the annotation table of the test images.
+   -Run Main.m
+ -To test only some examples:
+   -In the DetectionExample file, choose the desired animal to detect and modify the link of the used image.
+   -Run DetectionExample.m
+
