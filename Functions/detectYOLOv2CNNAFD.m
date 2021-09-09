@@ -166,7 +166,6 @@ for i=1:1188
       end
     end
     Results(i).imageFileName=imageNameO;
-    imageNameO
     label=[];
     label(1:r)=1;
     if r>0
