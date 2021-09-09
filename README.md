@@ -6,7 +6,10 @@ You find the requirements on the Requirements.txt
 Dataset: Public datasets (Cat Database, Standford Dogs Dataset, Oxford-IIIT Pet Dataset) and the THDD database.
 
 # References:
-[1] BenSaid F and Alimi AM. (2015). ANOFS: Automated negotiation based online feature selection method. International Conference on Intelligent Systems Design and Applications (ISDA). pp 225-230. 10.1109/ISDA.2015.7489229.
+[1] BenSaid F and Alimi AM. (2015). ANOFS: Automated negotiation based online feature selection method. International Conference on Intelligent Systems Design and Applications (ISDA). pp 225-230. 10.1109/ISDA.2015.7489229
+
 [2] BenSaid F and Alimi AM. (2021). Online feature selection system for big data classification based on multi-objective automated negotiation. Pattern Recognition. pp 107-629. 10.1016/j.patcog.2020.107629
+
 [3] Redmon J, Farhadi A. (2017). YOLO9000: Better, Faster, Stronger. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). pp 6517-6525. 10.1109/CVPR.2017.690
+
 [4] Sandler M, Howard A, Zhu M, Zhmoginov A, Chen LC. (2018). MobileNetV2: Inverted Residuals and Linear Bottlenecks. IEEE Conference on Computer Vision and Pattern Recognition (CVPR). pp 4510-4520. 10.1109/CVPR.2018.00474
