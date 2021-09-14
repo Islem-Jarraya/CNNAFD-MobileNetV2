@@ -5,6 +5,10 @@ You find the requirements on the Requirements.txt
 
 Dataset: Public datasets (Cat Database, Standford Dogs Dataset, Oxford-IIIT Pet Dataset) and the THDD database.
 
+# Note:
+You can download the THDD from the following link: 
+https://ieee-dataport.org/open-access/thdd?fbclid=IwAR3usKGl8Mfltq8zgPTr_vft15qog5oOAEXYsDBe4IHcvBx11eUmnRRwG_I
+
 # References:
 [1] BenSaid F and Alimi AM. (2015). ANOFS: Automated negotiation based online feature selection method. International Conference on Intelligent Systems Design and Applications (ISDA). pp 225-230. 10.1109/ISDA.2015.7489229
 
